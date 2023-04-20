@@ -19,22 +19,22 @@
 
 
 
-### More about 'moi'
+### Contact me at'
 ###### social media handles
+
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/linetmuthoni11.svg?style=social&label=Follow%20%40linetmuthoni11)](https://twitter.com/linetmuthoni11)
-[![LinkedIn]((https://img.shields.io/instagram/url/https/instagram.com/mu_tho.niii.svg?style=social&label=Follow%20%40mu_tho.niii)](https://www.instagram.com/b.l.a.c.k_b.e.a.u.t.y_11)
 
-(https://ke.linkedin.com/in/lish-muthoni-453a54245"linkedin")
-(https://www.instagram.com/mutho.n.i.i)
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
-- 👯 I’m looking to collaborate on projects inthe future
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://ke.linkedin.com/in/lish-muthoni-453a54245"linkedin")
+
+
+
+- 👯 I’m looking to collaborate on projects in the future
 
 ###### my badges ...
  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)                                                         
  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-                                 
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)                               
  ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
   ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -48,5 +48,5 @@
 ### Github stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lynnmuthoni)](https://github.com/lynnmuthoni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnmuthoni&layout=compact)](https://github.com/lynnmuthoni)                                                            
-  <a href=”https://www.linkedin.com/in/lishmuthoni/"><img align=”left”src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>                                                          
+                                                         
 - ⚡ Fun fact: It is physically impossible for pigs to look up into the sky.
