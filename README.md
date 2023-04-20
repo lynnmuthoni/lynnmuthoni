@@ -1,22 +1,20 @@
 ## Hi there 👋, I'm Linet
 #### I'm a passionate developer based in Kenya
-#####19 years old
+##### 19 years old
 
 
 
 
-- 😄 Pronouns:she/her
+ ### 😄 Pronouns:she/her
 
 
-- ##LANGUAGES AND TOOLS:
+ #### LANGUAGES AND TOOLS:
+ 
+ [![My Skills](https://skills.thijs.gg/icons?i=java,js,php,raect,kotlin,nodejs,css,c,figma&theme=dark)](https://skills.thijs.gg)
 
-![kotlin](data:image/jpeg;base64,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)
-1![CSS](https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F239%2F228%2Fpng-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue-thumbnail.png&tbnid=gE-DczmZUFtr_M&vet=12ahUKEwj3lPz8jrj-AhXlvUwKHVd1AhQQMygEegUIARDuAQ..i&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3DCss3&docid=fqOJK8u6L54SrM&w=348&h=558&q=CSS%20logo&ved=2ahUKEwj3lPz8jrj-AhXlvUwKHVd1AhQQMygEegUIARDuAQ)
-1![Java](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F3%2F30%2FJava_programming_language_logo.svg%2F800px-Java_programming_language_logo.svg.png&tbnid=T-n0gNq6HrB-YM&vet=12ahUKEwiQp_yPj7j-AhWymicCHTw9DLEQMygAegUIARDeAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&docid=ty8cA0ylPEPayM&w=800&h=1463&itg=1&q=java%20logo&ved=2ahUKEwiQp_yPj7j-AhWymicCHTw9DLEQMygAegUIARDeAQ)
-1![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw2GGLt2av8PnPGxPHT68OsN&ust=1682068409870000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDRyKaPuP4CFQAAAAAdAAAAABAD)
-1![html](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F61%2FHTML5_logo_and_wordmark.svg%2F640px-HTML5_logo_and_wordmark.svg.png&tbnid=Dok8zXrc1xqegM&vet=12ahUKEwir7IvEj7j-AhWBrUwKHYHoBu8QMygAegUIARDiAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&docid=1Ted8cCjatfjsM&w=640&h=640&q=html%20logo&ved=2ahUKEwir7IvEj7j-AhWBrUwKHYHoBu8QMygAegUIARDiAQ)
 
-- 🤔 I’m currently learning 
+🤔 I’m currently learning 
+- [![My Skills](https://skills.thijs.gg/icons?i=py&theme=dark)](https://skills.thijs.gg)
 
 
 
@@ -25,12 +23,28 @@
 [![Twitter URL](h(https://twitter.com/linetmuthoni11)
 (https://ke.linkedin.com/in/lish-muthoni-453a54245"linkedin")
 (https://www.instagram.com/mutho.n.i.i)
-- 👯 I’m looking to collaborate on ...
-...
-- 💬 Ask me about ...
+
+
+- 👯 I’m looking to collaborate on projects inthe future
+
+###### my badges ...
+ ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)                                                           
+ ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+                                  
+ ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)                                                           
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)    
 - 📫 How to reach me: 
-*(google.com/gmail/about/#inbox)
+                                                            
+(https://google.com/gmail/about/#inbox)
 
- ...
-- ⚡ Fun fact: ...
 
+### Github stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lynnmuthoni)](https://github.com/lynnmuthoni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnmuthoni&layout=compact)](https://github.com/lynnmuthoni)                                                            
+  <a href=”https://www.linkedin.com/in/lishmuthoni/"><img align=”left”src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>                                                          
+- ⚡ Fun fact: It is physically impossible for pigs to look up into the sky.
