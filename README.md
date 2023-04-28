@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Linet
 #### I'm a passionate developer based in Kenya
-##### 19 years old
+
 
 
 
